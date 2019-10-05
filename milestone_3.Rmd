@@ -1,0 +1,11 @@
+---
+title: "milestone_3"
+author: "Jeremy Ornstein"
+date: "10/5/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+Thus far, my project is to consider how public service affects individuals' fulfillment. It's tricky to determine what constitutes public service, and what fulfillment means! The American National Election Survey asks 3 questions about volunteering, and I could select those columns along with columns that have to do with life satisfaction, health, etc. A Gallup poll asks similar questions about volunteering, and include data about health, income, age, and, finally, happiness/satisfaction. I'm on the look out for more data that could explore the relationship or casual impact that public service (for now, volunteering) has on a person's quality of life. I know that it'll be tough to find a causation-- that volunteering makes people happier-- but Alice and I discussed the idea of breaking down the relationship into a few factors. Like, how is political volunteering different than faith-based community participation, in its effect on fulfillment? The Gallup and ANES studies will be a good jumping-off point. 
